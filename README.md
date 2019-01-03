@@ -6,7 +6,7 @@ Simply execute this script from the terminal and it will eventually clear all th
 # Executing the script
 gitclone https://github.com/dipanshujha/logclear.git \
 chmod +x logclear.sh \
-./logclear.sh \
+./logclear.sh 
 
 Voila!! you ended up freeing the memory spaces reserved for junks
 
