@@ -1,5 +1,5 @@
 # Description for logclear
-Usually, all the linux system saves or keeps logs for security purpose but slowly, these logs starts eating up your system memory and comsume a large chunk of memory if you haven't cleaned it up in few months.
+Usually, all the UNIX system saves or keeps logs for security purpose but slowly, these logs starts eating up your system memory and comsume a large chunk of memory if you haven't cleaned it up in few months.
 This script is a shell script for clearing out all temp logs in any debian system, mainly Linux.
 Simply execute this script from the terminal and it will eventually clear all the logs from the system memory.
 
