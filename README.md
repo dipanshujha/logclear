@@ -4,7 +4,7 @@ This script is a shell script for clearing out all temp logs in any debian syste
 Simply execute this script from the terminal and it will eventually clear all the logs from the system memory.
 
 # Executing the script
-gitclone https://github.com/dipanshujha/logclear.git \
+git clone https://github.com/dipanshujha/logclear.git \
 chmod +x logclear.sh \
 ./logclear.sh 
 
